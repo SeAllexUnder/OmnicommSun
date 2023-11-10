@@ -11,7 +11,7 @@
 
 Установите пакет:
 
-    pip install omnisun
+    pip install OmnicommSun
 
 Импортируйте класс в проект
 
