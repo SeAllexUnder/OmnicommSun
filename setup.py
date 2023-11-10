@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name='OmnicommSun',
-    version='0.0.2',
+    version='0.0.21',
     author='SeAllexUnder',
     author_email='sun5038@yandex.ru',
     description='test',
