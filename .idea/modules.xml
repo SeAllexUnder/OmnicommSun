@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Omnicomm Sun.iml" filepath="$PROJECT_DIR$/.idea/Omnicomm Sun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Omnicomm Sun/.idea/OmnicommSun.iml" filepath="$PROJECT_DIR$/../Omnicomm Sun/.idea/OmnicommSun.iml" />
     </modules>
   </component>
 </project>
